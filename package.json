@@ -2,6 +2,7 @@
   "name": "telegram-web-client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Supportiii/telegram-web-client",
   "dependencies": {
     "eslint": "^5.5.0",
     "mtproto-storage-browser": "^0.1.5",
